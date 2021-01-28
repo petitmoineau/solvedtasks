@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  littlecalc.cpp
+  twoNumbersOperation.cpp
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(15,18): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(17,18): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(19,18): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(21,18): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(56,41): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(58,41): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(60,41): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(62,41): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  whichOperation.cpp
+  Создание кода...
+C:\Users\Настя\source\repos\калькуль\Project1\twoNumbersOperation.cpp(23): warning C4715: twoNumbersOperation: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\Настя\source\repos\калькуль\Debug\calculator.exe
